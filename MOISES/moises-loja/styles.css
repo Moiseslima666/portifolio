@@ -1,0 +1,74 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background: url(fundo-site/65cef90c555b7ad88de25fb184555172.gif);
+    background-repeat: no-repeat;
+    background-position:center;
+    background: size 8px;
+    background-size:cover;
+    color: white;
+    
+}
+
+header{
+    background-color: rgb(227, 133, 26);
+    text-align: center;
+    padding: 20px;
+
+}
+nav ul{
+list-style-type: none;
+
+margin: 3px;
+padding: 10px;
+text-align: center;
+}
+
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: rgb(99, 136, 133);
+    font-weight: bold;
+
+}
+
+nav ul li a:hover{
+    text-decoration: underline;
+}
+
+section{
+    padding: 50px;
+    text-align: center;
+}
+
+section#home{
+color: rgb(255, 255, 255);
+background-image: url("imags/2020-12-01T124607Z_1_LYNXMPEGB02PI_RTROPTP_4_EMPRESAS-CENTAURO-NIKE-1200x800.jpg");
+background-repeat: no-repeat;
+background-position:center;
+background: size 8px;
+background-size:cover;
+text-shadow: 0.1em 0.1em #e5c62d;
+opacity: 0.9;
+}
+section#home h2{
+    font-size: 28px;
+    color: white;
+
+}
+
+section#home p{
+    font-size: 19px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#fotopc{
+    width: 600px;
+    height: 300px;
+}
+
