@@ -1,0 +1,65 @@
+body{
+    text-align: justify;
+    font-family: arial;
+    color: rgb(0, 0, 0);
+    background-color: #F0D122;
+
+}
+.i1{
+    border-radius: 90%;
+    box-shadow: black;
+    border: black;
+    border: 2px solid black;
+}
+.Portfolio{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 50px;
+  font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+}
+.fd{
+    text-align: left;
+    color: black;
+    font-size: 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.cbc{
+    background-color: #3322f0;
+    border-radius: 30px;
+    border: 300px;
+    color: #3322f0;
+    font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+}
+.tx1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+.fonte{
+    font-family: fantasy;
+}
+#contato{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    width:150px;
+    text-align: center;
+    
+    
+}
+#nav2{
+    display: flex;
+    justify-content: space-around;
+    font-size: 40px;
+
+}
